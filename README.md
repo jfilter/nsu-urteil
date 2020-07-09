@@ -1,6 +1,6 @@
 # NSU-Urteil
 
-Most frequent sentences in the written judgment against the NSU.
+Most frequent sentences in [the written judgment against the NSU](https://fragdenstaat.de/blog/2020/06/30/nsu-prozess-urteil-olg-muenchen/).
 
 See [this notebook](./get_data.ipynb) how to get data and [this notebook](./most_frequent_sent.ipynb) how to compute the most frequest sentences.
 
